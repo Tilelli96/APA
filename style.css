@@ -2,9 +2,6 @@ html, body {
     width: 100%;
     height: 100%;
 }
-body {
-    background-color: grey;
-}
 .dons {
     background-image: url("/images/image1.jpg");
     min-height: 100%;
@@ -13,4 +10,9 @@ body {
 }
 .carrousel {
     margin-top: 10px;
+}
+.monImage {
+    position: absolute;
+    top: 1100px;
+    left: 200px;
 }
