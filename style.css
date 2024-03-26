@@ -22,3 +22,6 @@ html, body {
     padding: 0;
     border-radius: 30px;
 }
+.email {
+    text-decoration: underline;
+}
