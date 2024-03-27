@@ -25,3 +25,14 @@ html, body {
 .email {
     text-decoration: underline;
 }
+.card {
+    border-radius: 10%;
+    margin: 2%;
+    padding: 0%;
+    height: 350px;;
+}
+.card img {
+    border-radius: 10%;
+    height: 200px;
+}
+
