@@ -8,8 +8,8 @@ html, body {
     min-width: 100%;
     background-size: 100%;
 }
-.carrousel {
-    margin-top: 10px;
+#myCarrousel {
+    margin-inline: 100px;
 }
 .monImage {
     margin-left: -50px;
